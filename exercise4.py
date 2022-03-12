@@ -7,6 +7,6 @@ for text in fi:
             mylist.append(i)
             print("The word is not in the list!")
 
-print(mylist)
+print(sorted(mylist))
 
 
